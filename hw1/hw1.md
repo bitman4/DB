@@ -8,6 +8,6 @@
 #
 **Материалы выполненного ДЗ**
 
-- [Модель ДБ Destepia v0.1](https://github.com/bitman4/DB/tree/master/HW1/Destepia_DB.png)
+- [Модель ДБ Destepia v0.1](https://github.com/bitman4/DB/tree/master/hw1/Destepia_DB.png)
 
 В концептуальной модели БД косметологического кабинента отражена схема данных для основного процесса предприятия - оказание услуг лазерной косметологии.

@@ -10,7 +10,7 @@
 #
 **Материалы выполненного ДЗ**
 
-Скриншотs подключения к БД через:
-- [CLI psql](https://github.com/bitman4/DB/tree/master/HW3/psql_layout.png)
-- [pgAdmin](https://github.com/bitman4/DB/tree/master/HW3/pgAdmin_scr.png)
-- [DBeaver](https://github.com/bitman4/DB/tree/master/HW3/DBeaver_scr.png)
+Скриншоты подключения к БД через:
+- [CLI psql](https://github.com/bitman4/DB/tree/master/hw3/psql_layout.png)
+- [pgAdmin](https://github.com/bitman4/DB/tree/master/hw3/pgAdmin_scr.png)
+- [DBeaver](https://github.com/bitman4/DB/tree/master/hw3/DBeaver_scr.png)
